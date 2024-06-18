@@ -1,0 +1,12 @@
+{
+  "icon_families": {
+    "star": {
+      "icon_container": "★",
+      "icon_leaf": "✿"
+    },
+    "pocker": {
+      "icon_container": "♥",
+      "icon_leaf": "♠"
+    }
+  }
+}
